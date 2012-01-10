@@ -9,7 +9,7 @@ Messing around a little with Codeigniter and the Groupon Widget. This could easi
         'header_color' => '#FF00FF',
         'shell_background_color' => '#FFFF00',
         'shell_text_color' => '#00FFFF',
-        'deal_link_color' => '#))FF))',
+        'deal_link_color' => '#00FF00',
         'pricetag_background_color' => '#F0F0F0',
         'get_it_background_color' => '#FFCC00',
         'city' => 'dallas'
