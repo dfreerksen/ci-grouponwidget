@@ -8,7 +8,7 @@
  * @subpackage  Libraries
  * @category    Library
  * @author      David Freerksen
- * @link        https://github.com/dfreerksen/ci-formation
+ * @link        https://github.com/dfreerksen/ci-grouponwidget
  */
 class Grouponwidget {
 
@@ -76,7 +76,7 @@ class Grouponwidget {
 	 * set magic method
 	 *
 	 * @param   string
-	 * @return  null
+	 * @return  void
 	 */
 	public function __set($name, $value)
 	{
